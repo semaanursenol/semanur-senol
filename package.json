@@ -1,0 +1,30 @@
+{
+  "name": "semanur-senol",
+  "version": "1.0.0",
+  "description": "Bu bir deneme projesidir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semanur": "echo 'Benim adım Semanur'",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Semanur Şenol",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.2.1",
+    "nodemailer": "^6.9.12",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  },
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/semaanursenol/semanur-senol.git"
+  }
+}
+ 
